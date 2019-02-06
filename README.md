@@ -1,3 +1,6 @@
+### POINTS: 1
+### Did not detect Winner or CAT
+
 # Frontend Review CT complete CW
 
 ### Exercise 1:
